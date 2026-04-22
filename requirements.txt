@@ -1,2 +1,3 @@
-pip install telethon aiosqlite google-generativeai
-python main.py
+telethon
+aiosqlite
+google-generativeai
